@@ -74,6 +74,10 @@ void loop() {
       closeGate();  // Close gate if vehicle is detected at IR
     } else {
       openGate();   // Open gate if no vehicle is detected at IR
+      
+      // Added safety delay so the gate stays open long enough for the car 
+      // to pass through safely without hitting it prematurely
+      delay(3000); 
     }
   }
 

@@ -72,9 +72,3 @@ Cardboard scale model of the parking lot with the gate, slot sensors, LCD and ch
 
 Guide: Ms. Anagha A, Assistant Professor, Department of ECE.
 
-## References
-
-1. X. Lu et al., "Wireless Charging Technologies: Fundamentals, Standards, and Network Applications," IEEE Communications Surveys & Tutorials, 18(2), 2016.
-2. M. V. Sudhakar et al., "Development of smart parking management system," Materials Today: Proceedings, 80, 2023.
-3. S. S. Channamallu et al., "A review of smart parking systems," Transportation Research Procedia, 73, 2023.
-4. M. Fareq et al., "Low wireless power transfer using inductive coupling for mobile phone charger," J. Phys.: Conf. Ser., 495(1), 2014.

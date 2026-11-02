@@ -29,7 +29,7 @@ B.Tech mini project, Department of Electronics and Communication Engineering, Co
 
 ![Circuit schematic](docs/circuit_schematic.png)
 
-![Wiring layout](docs/circuit_schematic.png)
+![Wiring layout](docs/circuit_design.png)
 
 ## Prototype
 
